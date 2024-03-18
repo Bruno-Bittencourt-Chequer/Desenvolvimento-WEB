@@ -1,0 +1,23 @@
+#meutitulo{
+    font-family: 'Courier New', Courier, monospace
+}
+
+#minhadiv{
+    background-color:blue;
+}
+
+
+body{
+    font-family: "Cambo", serif;
+}
+
+.container {
+    width: 500px; /* largura do elemento pai */
+    border: 1px solid black; /* apenas para visualização */
+    padding: 20px; /* apenas para visualização */
+}
+
+.Div {
+    width: 50%; /* largura relativa à largura do elemento pai */
+    background-color: lightblue; /* cor de fundo apenas para visualização */
+}
